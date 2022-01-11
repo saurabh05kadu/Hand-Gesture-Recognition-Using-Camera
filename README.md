@@ -21,5 +21,9 @@ Early Stopping.
 ![Screenshot (61)](https://user-images.githubusercontent.com/97496451/148931650-0240b4b9-d20b-4812-8538-cd5e80f66de5.png)
 
 
+https://user-images.githubusercontent.com/97496451/148936119-d7fdde72-c72b-4659-8a12-d496439c495c.mp4
+
+
+
 
 
