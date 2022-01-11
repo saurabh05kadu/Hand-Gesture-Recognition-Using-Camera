@@ -7,3 +7,5 @@ Project Description:Human gestures include different components of visual action
 
 
 ![Screenshot (10)](https://user-images.githubusercontent.com/97496451/148931523-04cafe34-a00a-4f54-aa2b-97f6079266c3.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/97496451/148931650-0240b4b9-d20b-4812-8538-cd5e80f66de5.png)
+
